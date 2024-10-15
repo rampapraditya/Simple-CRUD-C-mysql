@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\project\\C#\\CRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBFE61B5-A086-4223-BFCB-40C23EDF36FD}|CRUD\\CRUD.csproj|d:\\project\\c#\\crud\\crud\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBFE61B5-A086-4223-BFCB-40C23EDF36FD}|CRUD\\CRUD.csproj|solutionrelative:crud\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBFE61B5-A086-4223-BFCB-40C23EDF36FD}|CRUD\\CRUD.csproj|d:\\project\\c#\\crud\\crud\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBFE61B5-A086-4223-BFCB-40C23EDF36FD}|CRUD\\CRUD.csproj|solutionrelative:crud\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\project\\C#\\CRUD\\CRUD\\Form1.cs",
+              "RelativeDocumentMoniker": "CRUD\\Form1.cs",
+              "ToolTip": "D:\\project\\C#\\CRUD\\CRUD\\Form1.cs",
+              "RelativeToolTip": "CRUD\\Form1.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAD4vzwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T01:28:43.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\project\\C#\\CRUD\\CRUD\\Form1.cs",
+              "RelativeDocumentMoniker": "CRUD\\Form1.cs",
+              "ToolTip": "D:\\project\\C#\\CRUD\\CRUD\\Form1.cs [Design]",
+              "RelativeToolTip": "CRUD\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T01:11:31.57Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
